@@ -9,4 +9,4 @@ username:  Sarah Smith | password 4444
 In this application , logged in user can transfer amount other accounts, Request for a loan, can close the account,  Display the history 
  caution : make sure u provide correct transfer account name
  
-Deployed website: 
+Deployed website: https://rajini12.github.io/bankapplication/
